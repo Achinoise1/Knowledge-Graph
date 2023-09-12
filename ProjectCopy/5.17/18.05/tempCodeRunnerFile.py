@@ -1,0 +1,2 @@
+str = input()
+# procedureContent(str)
